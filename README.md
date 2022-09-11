@@ -1,2 +1,2 @@
 my second commit
-o me
+o my
